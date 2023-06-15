@@ -38,7 +38,7 @@ Exemplo de lista Numerada
     ou acesse [spotfy](https://spotfy.com)
 
     #### CAixa de check
-    - [x] ] Fazer a tela de login
+    - [x] Fazer a tela de login
     - [ ] criar a tela de calculo
     - [ ] criar a tela de histórico
 
